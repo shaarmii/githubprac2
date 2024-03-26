@@ -1,0 +1,3 @@
+This file is created within branch gitbranch1.
+Initially it will not be in main branch.After merge command we can add the file created in branch
+gitbranch1 to main branch.
